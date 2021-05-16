@@ -1,6 +1,6 @@
 # FIFA_EDA
 
-## Exlporatory Data Analysis of football data containing various tournaments played between 1972 up to 2019
+## Exploratory Data Analysis of football data containing various tournaments played between 1972 up to 2019
 
 ## Project Structure
 1. result.csv file contains the raw data having following features:
@@ -14,7 +14,7 @@
    h. country - the name of the country where the match was played
    i. neutral - TRUE/FALSE column indicating whether the match was played at a neutral venue
 2. FIFA_process_data.py file contains preprocessing done on raw data from result.csv and saved in process_data.csv
-3. FIFA_EDA.ipynb file gives the walkthrough over Exlporatory Data Analysis of different scenarios
+3. FIFA_EDA.ipynb file gives the walkthrough over Exploratory Data Analysis of different scenarios
 
 ## Please feel free to connect for any suggestions or doubts!!!
 
